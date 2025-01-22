@@ -14,10 +14,3 @@
 3. **Гибкость настроек:**
    - Использует API-ключ и ID голоса, указанные в файле `.env`.
    - Возможность добавления кастомных промтов с числами через массив `prompts_with_digits`.
-
-## Установка
-
-1. **Склонируйте репозиторий:**
-   ```bash
-   git clone https://github.com/username/11labs_generation.git
-   cd 11labs_generation
